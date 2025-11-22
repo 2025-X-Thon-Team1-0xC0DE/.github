@@ -26,11 +26,12 @@
 
 ## 🏗️ 시스템 아키텍처 (System Architecture)
 사용자가 작성한 텍스트는 아래와 같은 흐름으로 처리되어 피드백을 제공합니다.
-<img width="1044" height="730" alt="image" src="https://github.com/user-attachments/assets/ee810312-4f02-4414-8e09-1447d8ead1f5" />
+<img width="1274" height="1002" alt="image" src="https://github.com/user-attachments/assets/82039c60-c8be-4123-95b1-26cde6c3a360" />
+
 
 1.  **User Input:** React 에디터에서 텍스트 작성 및 카테고리 선택
 2.  **Validataion (Spring Boot):** 1차 데이터 유효성 검증 및 로그 저장
-3.  **Async Processing (FastAPI):** 데이터를 비동기로 AI 서버에 전송
+3.  **Async Processing :** 데이터를 비동기로 AI 서버에 전송
 4.  **AI Analysis (LLM/LangChain/DSpy):** 사실 나열 vs 주장 분석, 논리적 근거 판별
 5.  **Feedback Loop:** 생성된 피드백이 Spring Boot를 거쳐 React 사이드바에 렌더링
 
