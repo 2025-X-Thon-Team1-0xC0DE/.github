@@ -1,3 +1,6 @@
+<img width="1460" height="798" alt="image" src="https://github.com/user-attachments/assets/b430f61b-6b12-4da6-807f-e4ce71f7b622" />
+
+
 # ✍️ gAIde (가이드)
 > **"AI는 거들 뿐, 글쓰기의 주체는 바로 당신입니다."** <br>
 > 획일화된 AI 문체가 아닌, 나만의 논리와 문체를 완성하도록 돕는 글쓰기 가이드 플랫폼
