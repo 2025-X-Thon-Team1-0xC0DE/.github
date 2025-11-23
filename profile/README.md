@@ -7,6 +7,10 @@
 
 <br>
 
+## 📝 Tutorial
+[![Image](https://github.com/user-attachments/assets/9683f6ba-d515-4221-a6ed-5eb07ab45a6c)](https://www.youtube.com/watch?v=awV4JI6dsNc)
+<br>
+
 ## 💡 프로젝트 소개 (Project Overview)
 **gAIde**는 LLM이 글을 대신 써주는 것이 아니라, 사용자가 직접 쓴 글에 대해 **"논리적 비약 탐지"**, **"근거 보충 요구"** 등의 피드백만을 제공하는 서비스입니다.
 
